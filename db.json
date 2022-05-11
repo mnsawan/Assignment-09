@@ -1,0 +1,48 @@
+    {
+       "students" : [
+           {
+               "id" : 1,
+               "name" : "Kalam",
+               "age" : 70
+           },
+           {
+            "id" : 2,
+            "name" : "Kashem",
+            "age" : 60
+        },
+        {
+            "id" : 3,
+            "name" : "Hashem",
+            "age" : 40
+        },
+        {
+            "id" : 4,
+            "name" : "Hasan",
+            "age" : 55
+        }
+       ],
+
+       "teachers" : [
+        {
+            "id" : 1,
+            "name" : "Jamal",
+            "age" : 60
+        },
+        {
+         "id" : 2,
+         "name" : "Kamal",
+         "age" : 62
+     },
+     {
+         "id" : 3,
+         "name" : "Damal",
+         "age" : 40
+     },
+     {
+         "id" : 4,
+         "name" : "Samal",
+         "age" : 50
+     }
+    ]
+
+    }
